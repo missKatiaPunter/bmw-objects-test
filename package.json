@@ -1,0 +1,22 @@
+{
+  "name": "bmw-objects-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missKatiaPunter/bmw-objects-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missKatiaPunter/bmw-objects-test/issues"
+  },
+  "homepage": "https://github.com/missKatiaPunter/bmw-objects-test#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
