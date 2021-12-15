@@ -20,16 +20,18 @@
 ![image](https://user-images.githubusercontent.com/54673205/146178962-c590aee7-43fd-4599-8d57-5f5abb6d13c7.png)
  
 ## Usage
- 
+
 ### JS Applications
- 
+
 This example includes the Jest JavaScript framework for testing, with two assertions as examples. Feel free to play around with it and create more functions/tests. Do anything you like with it :)
- 
+
 1. Clone the repository:
- 
-   ```sh
-   $ git clone https://github.com/missKatiaPunter/bmw-objects-test
-   ```
+
+```sh
+
+git clone https://github.com/missKatiaPunter/bmw-objects-test
+
+```
  
 1. Install the preset:
  
