@@ -13,4 +13,16 @@ describe('testing removeBMW()', () => {
 	});
 });
 
+describe('Testing return object function', () => {
+    it('Print out name of object and ID', () => {
+        expect (returnObjects(['world'])).toEqual([{name:'world', id:1}]);
+    } )
+})
+
+describe('Testing return object function with multiple names', () => {
+    it('Print out name of object and ID', () => {
+		expect (returnObjects(['world','bmw','test'])).toEqual([{name:'world',id:1},{name:'bmw', id:2},{name:'test', id:3}]);
+    } )
+})
+
 // Test function return objects
