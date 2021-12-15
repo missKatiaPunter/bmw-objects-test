@@ -12,7 +12,7 @@
   </a>
 </p>
  
-<h4 align="center">An awesome object-based TDD (Test Driven Development) example with Jest! Created by <a href="https://misskatiapunter.github.io/" target="_blank">Katia!</a>.</h4>
+<h4 align="center">An awesome object-based TDD (Test Driven Development) example with Jest! Created by <a href="https://misskatiapunter.github.io/" target="_blank">Katia</a>.</h4>
  
 <h2 align="center">
   :star: Star this repo on GitHub — Katia will love it!
