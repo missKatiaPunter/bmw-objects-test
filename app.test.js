@@ -11,8 +11,20 @@ describe('testing removeBMW()', () => {
         expect(removeBMW('Nobmwbmwbmw')).toBe('No');
         expect(removeBMW('NobmwNobmwbmw')).toBe('NoNo');
         expect(removeBMW('NobmwNobmwNobmw')).toBe('NoNoNo');
-
+		  expect(removeBMW('NobmwNobmwNobmwNobmw')).toBe('NoNoNoNo');
 	});
 });
+
+describe('Testing return object function', () => {
+    it('Print out name of object and ID', () => {
+        expect (returnObjects(['world'])).toEqual([{name:'world', id:1}]);
+    } )
+})
+
+describe('Testing return object function with multiple names', () => {
+    it('Print out name of object and ID', () => {
+		expect (returnObjects(['world','bmw','test'])).toEqual([{name:'world',id:1},{name:'bmw', id:2},{name:'test', id:3}]);
+    } )
+})
 
 // Test function return objects
