@@ -16,7 +16,8 @@
     "url": "https://github.com/missKatiaPunter/bmw-objects-test/issues"
   },
   "homepage": "https://github.com/missKatiaPunter/bmw-objects-test#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^27.4.5"
   }
 }
