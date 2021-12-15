@@ -9,6 +9,7 @@ describe('testing removeBMW()', () => {
 	it('should remove bmw', () => {
 		expect(removeBMW('Nobmw')).toBe('No');
         expect(removeBMW('Nobmwbmwbmw')).toBe('No');
+        expect(removeBMW('No')).toBe('No');
 	});
 });
 
