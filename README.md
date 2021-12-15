@@ -11,12 +11,6 @@
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
   </a>
 </p>
- 
-<h4 align="center">An awesome object-based TDD (Test Driven Development) example with Jest! Created by <a href="https://misskatiapunter.github.io/" target="_blank">Katia!!!</a>.</h4>
- 
-<h2 align="center">
-  :star: Star this repo on GitHub — Katia will love it!
-</h2>
 
 ![image](https://user-images.githubusercontent.com/54673205/146178962-c590aee7-43fd-4599-8d57-5f5abb6d13c7.png)
  
