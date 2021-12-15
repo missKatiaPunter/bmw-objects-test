@@ -11,6 +11,7 @@ describe('testing removeBMW()', () => {
         expect(removeBMW('Nobmwbmwbmw')).toBe('No');
         expect(removeBMW('NobmwNobmwbmw')).toBe('NoNo');
         expect(removeBMW('NobmwNobmwNobmw')).toBe('NoNoNo');
+		expect(removeBMW('NobmwNobmwNobmwNobmw')).toBe('NoNoNoNo');
 
 	});
 });
